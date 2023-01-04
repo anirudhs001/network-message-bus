@@ -3,8 +3,8 @@
 **Assignment 2 for course IS F462: Network Programming**
 
 ### Team Members: 
-- Anirudh Singh (2019A7PS0107P) 
-- Dhruv Rawat (2019B3A70537P)
+- [Anirudh Singh](https://github.com/anirudhs001) (2019A7PS0107P) 
+- [Dhruv Rawat](https://github.com/thedhruvrawat) (2019B3A70537P)
 
 ## Testing:
 To compile all the files run:
